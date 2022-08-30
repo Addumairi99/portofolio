@@ -20,7 +20,7 @@ function Navbar() {
   ];
 
   const renderMenuList = () => {
-    return menuListMobile.map((val) => {
+    return menuList.map((val) => {
       return (
         <li key={val.id} className="hover:text-teal-600">
           <Link to={val.to} smooth={true} duration={700}>
