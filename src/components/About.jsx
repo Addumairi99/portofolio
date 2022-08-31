@@ -16,14 +16,12 @@ function About() {
           <h2 className="text-2xl font-bold">Who I am</h2>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-            facilis reiciendis eius eaque impedit mollitia cumque quis quo.
-            Excepturi qui quis laudantium fugiat, ratione amet veniam a debitis
-            id labore! Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Suscipit quae repudiandae cum minima magni dicta delectus,
-            voluptatum libero. Corrupti facilis culpa natus ea quia rerum at
-            exercitationem provident, sapiente nam.
+            Graduated from Telkom University majoring in Electrical Engineering.
+            Have the ability to build responsive front-end web applications
+            using ReactJS and build server side of a web applications related
+            to logic and databases using Node.js
           </p>
+
           <a href="CV Addumairi.pdf" download="CV Addumairi Azhar Maksum">
             <button className="mt-2 rounded-xl bg-teal-600 w-32 h-10 hover:bg-teal-800">
               Download CV
