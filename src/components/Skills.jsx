@@ -40,7 +40,7 @@ function Skills() {
   return (
     <div name="skills" className="w-full lg:h-screen p-2 bg-gray-900 text-white ">
       <div className="max-w-[12404x] mx-auto flex flex-col justify-center h-full">
-        <div className="text-center mb-10 ">
+      <div className="text-center mb-10 mt-8 ">
           <p className="text-4xl font-bold inline border-b-4 border-teal-500">
             Skills
           </p>
