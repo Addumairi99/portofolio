@@ -26,8 +26,8 @@ function Portofolio() {
       title: "Todo-App",
       desc: "CRUD using react js",
       img: todoapp,
-      linkcode: "https://www.youtube.com/",
-      linkdemo: "https://www.youtube.com/",
+      linkcode: "https://github.com/Addumairi99/todo-app",
+      linkdemo: "https://todo-app-addumairi.netlify.app/",
     },
   ];
 
