@@ -2,6 +2,7 @@ import React from "react";
 import pharmastore from "../assets/pharmastore.png";
 import weatherapp from "../assets/weather-app.png";
 import todoapp from "../assets/todo-app.png";
+import pokemon from "../assets/pokemon.png";
 
 function Portofolio() {
   const portofolioList = [
@@ -28,6 +29,14 @@ function Portofolio() {
       img: todoapp,
       linkcode: "https://github.com/Addumairi99/todo-app",
       linkdemo: "https://todo-app-addumairi.netlify.app/",
+    },
+    {
+      id: 4,
+      title: "Pokemon Web App",
+      desc: "Pokemon API",
+      img: pokemon,
+      linkcode: "https://github.com/Addumairi99/Pokemon",
+      linkdemo: "https://pokemon99.netlify.app/",
     },
   ];
 
